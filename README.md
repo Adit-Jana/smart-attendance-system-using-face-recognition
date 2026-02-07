@@ -15,21 +15,6 @@ This project implements a smart attendance system using face recognition technol
 - **SQLite**: Database for storing attendance records and face data
 - **NumPy**: Numerical computing library
 
-## Project Structure
-```
-smart-attendance-system-using-face-recognition/
-├── dataset1.py              # Dataset creation and image capture
-├── train2.py                # Model training script
-├── detector3.py             # Face detection module
-├── drycheck.py              # Testing and validation script
-├── final4.py                # Main application and recognition engine
-├── end6.py                  # Utility script
-├── FaceBase.db              # SQLite database for storing face data
-├── attn.txt                 # Attendance log file
-├── haarcascade_frontalface_default.xml  # Pre-trained face detection classifier
-├── recognizer/              # Directory for trained model files
-└── README.md                # This file
-```
 
 ## Installation
 
@@ -142,6 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For further inquiries or support, please contact:
-- **Author**: Adit-Jana
+- **Author**: Adit Jana
 - **GitHub**: [Adit-Jana](https://github.com/Adit-Jana)
 - **Repository**: [smart-attendance-system-using-face-recognition](https://github.com/Adit-Jana/smart-attendance-system-using-face-recognition)
